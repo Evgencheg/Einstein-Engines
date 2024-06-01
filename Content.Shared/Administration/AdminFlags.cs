@@ -105,6 +105,11 @@
         /// </summary>
         Whitelist = 1 << 20,
 
+        ///<summary>
+        /// Permits the visibility of Pii in game and on SS14 Admin
+        ///</summary>
+        Pii = 1 << 18,
+
         /// <summary>
         ///     Dangerous host permissions like scsi.
         /// </summary>
